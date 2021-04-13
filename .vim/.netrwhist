@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/'
+let g:netrw_dirhist_1='/home'
+let g:netrw_dirhist_0='/home/johnripper'
+let g:netrw_dirhist_9='/home/johnripper/Desktop'
+let g:netrw_dirhist_8='/home/johnripper/Desktop/exercices'
+let g:netrw_dirhist_7='/home/johnripper/Desktop/exercices/automation'
+let g:netrw_dirhist_6='/home/johnripper/Desktop/exercices/automation/advanced_practiceProjects'
+let g:netrw_dirhist_5='/home/johnripper/Desktop/exercices/automation/advanced_practiceProjects/2048'
+let g:netrw_dirhist_4='/home/johnripper/Desktop'
+let g:netrw_dirhist_3='/home/johnripper/Desktop/exercices'

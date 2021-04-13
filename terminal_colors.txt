@@ -1,0 +1,24 @@
+text  : #D3D7CF
+background : #1B1A1A
+
+
+TOP ROW from left to right
+#2E3436
+#BD4034
+#56C943
+#9A8C28
+#3465A4
+#AA33BE
+#209A9C
+#D3D7CF
+
+
+bottom ROW from left to right
+#555753
+#EF2929
+#69D657
+#D3BB06
+#729FCF
+#AD7FA8
+#34E2E2
+#EEEEEC
